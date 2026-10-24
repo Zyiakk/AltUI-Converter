@@ -1,0 +1,3 @@
+AltUI 2.8.0
+synced 2026-10-24
+files: bodypak.py bodybones.py bodypak_abp.py bodyscale_groups.py weaponpak.py weapon_skins.py idlepak.py idle_mods.py pak11_extract.py pakio.py oodle_kraken.py uasset_props.py uasset_pkg.py uasset_datatable.py

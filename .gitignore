@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.wine-build/
+build/
+dist/
+*.pak
+*.spec
